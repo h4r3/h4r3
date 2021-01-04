@@ -1,26 +1,26 @@
-### 🌱 Contents
-## Function
+## 🌱 Contents
+### Function
 - excel
   - test
 - cmd
 - powershell
 - python
 
-## Module
+### Module
 - ファイルの名前変更
 - Choromeブックマークのcsv化
 - csvのワードを検索
 - pdfの逆画像検索
 - 役立つソフト
 
-## wip
+### wip
 - GUI
 - 研究開発用
 - [ResumeWeb](https://github.com/h4r3/h4r3.github.io)
 - ResumeMD
 - プロフィール
 
-## private
+### private
 - secret
 
 
