@@ -1,4 +1,27 @@
-### 🌱 I’m currently learning
+### 🌱 Contents
+<Function>
+ excel
+ cmd
+ powershell
+ python
+
+<Module>
+ ファイルの名前変更
+ Choromeブックマークのcsv化
+ csvのワードを検索
+ pdfの逆画像検索
+ 役立つソフト
+
+<wip>
+ GUI
+ 研究開発用
+ ResumeWeb
+ ResumeMD
+ プロフィール
+
+<private>
+ secret
+
 
 <!--
 **h4r3/h4r3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
