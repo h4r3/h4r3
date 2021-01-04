@@ -1,7 +1,7 @@
 ## 🌱 Contents
 ### Function
 - excel
-  - test
+  - matrix
 - cmd
 - powershell
 - python
@@ -17,7 +17,7 @@
 - GUI
 - 研究開発用
 - [ResumeWeb](https://github.com/h4r3/h4r3.github.io)
-- ResumeMD
+- [ResumeMD](https://github.com/h4r3/Resume)
 - プロフィール
 
 ### private
