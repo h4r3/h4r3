@@ -1,4 +1,4 @@
-## 🌱 Contents 整理中...
+## 🌱 I will end the summarization of Contents ...
 ### Function
 - excel
   - matrix
@@ -7,18 +7,19 @@
 - python
 
 ### Module
-- ファイルの名前変更
-- Choromeブックマークのcsv化
-- csvのワードを検索
-- pdfの逆画像検索
-- 役立つソフト
+- Rename file
+- Csv conversion of Chorome bookmarks
+- Search for words in csv
+- Reverse image search for pdf
+- Useful software
+
 
 ### wip
 - GUI
-- 研究開発用
+- Reserch & Development
 - [ResumeWeb](https://github.com/h4r3/h4r3.github.io)
 - [ResumeMD](https://github.com/h4r3/Resume)
-- プロフィール
+- Bio
 
 ### private
 - secret
