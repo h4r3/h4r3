@@ -24,6 +24,10 @@
 ### private
 - secret
 
+### Learning
+- Bash
+- Ruby
+[Link](https://www.javadrive.jp/)
 
 <!--
 **h4r3/h4r3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
