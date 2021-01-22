@@ -5,6 +5,7 @@
 - cmd
 - powershell
 - python
+  - app
 
 ### Module
 - Rename file
