@@ -17,7 +17,7 @@
 
 ### wip
 - GUI
-- Reserch & Development
+- [Reserch & Development](https://github.com/h4r3/R-D)
 - [ResumeWeb](https://github.com/h4r3/h4r3.github.io)
 - [ResumeMD](https://github.com/h4r3/Resume)
 - Bio
